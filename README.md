@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmet Metin and welcome to my GitHub bio.
-- 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... HTML,CSS,JAVASCRIPT,PHP
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,PHP
 - 🇹🇷 I'm Based in Canakkale, Turkey
 - ☕️ I drink tea, and especially enjoy  <a href="https://en.wikipedia.org/wiki/Earl_Grey_tea">Earl Grey</a>.
 <!---
