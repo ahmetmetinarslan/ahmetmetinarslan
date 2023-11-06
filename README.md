@@ -4,7 +4,7 @@
 - 🇹🇷 I'm Based in Ankara, Turkey
 - ☕️ I drink tea, and especially enjoy  <a href="https://en.wikipedia.org/wiki/Earl_Grey_tea">Earl Grey</a>.<br><br>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ahmetmetinarslan&show_icons=true&theme=radical)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmetinarslan&layout=pie)](https://github.com/ahmetmetinarslan/github-readme-stats)<br><br>
+<!--[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmetinarslan&layout=pie)](https://github.com/ahmetmetinarslan/github-readme-stats)<br><br>](url)--->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ahmetmetinarslan)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@ahmetmetinarslan)
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-red?style=flat-quare&labelColor=red&logo=CodePen&logoColor=white&link=link)](https://codepen.io/ahmetmetinarslan)
