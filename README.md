@@ -7,6 +7,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ahmetmetinarslan)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@ahmetmetinarslan)
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-red?style=flat-quare&labelColor=red&logo=CodePen&logoColor=white&link=link)](https://codepen.io/ahmetmetinarslan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmetinarslan&layout=pie)](https://github.com/ahmetmetinarslan/github-readme-stats)
 [![CodePen Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-quare&labelColor=blue&logo=CodePen&logoColor=white&link=link)](https://www.linkedin.com/in/ahmet-metin-arslan-b88a1a233/) 
 <!---
 ahmetmetinarslan/ahmetmetinarslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
